@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "This is a project to show main node onboarding knowledge.",
   "main": "index2.js",
-  "scripts": {
-    "test": "ls -l",
-    "test2": "ls -l"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/richardcnh/node-training.git"
@@ -24,8 +21,5 @@
   "devDependencies": {
     "dayjs": "^1.8.28"
   },
-  "dependencies": {
-    "http-server": "^0.12.3",
-    "underscore": "x.x.x"
-  }
+  "dependencies": {}
 }

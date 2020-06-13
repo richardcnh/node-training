@@ -17,3 +17,6 @@ setImmediate(function () {
   console.log('setImmediate延迟执行2');
 });
 console.log('正常执行');
+
+// 正常执行
+//
